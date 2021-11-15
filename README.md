@@ -1,6 +1,6 @@
 <h1> Seshions </h1>
 <h2> A Potluck Planner App (Work in Progress) </h2>
-<h3> A simple tool to host and plan parties, hosts can create parties and ask for guests to bring items. Guests can select the items they will bring. </h3>
+<h3> A tool to host and plan parties hosts. Users can create parties and provide details about the party. They can easily invite guests by sending them a custom link. They can also have specific guests bring items to the party. Guests can select the items they will bring. </h3>
 
 <h2> Front-end MVP </h2>
 
